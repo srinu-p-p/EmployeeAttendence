@@ -1,0 +1,6 @@
+{
+  "name": "Employee Attendance & Analytics API & Platform",
+  "description": "Production-grade FastAPI & MongoDB Attendance and Analytics platform featuring punch-in/out business rules, audit trails, aggregation pipelines, and comprehensive candidate submission package.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
